@@ -231,3 +231,9 @@ order = [".jpg$", ".gif$"]
   [markup.highlight]
     # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
     noClasses = false
+
+# Author config
+[author]
+    name = "Jeffrin"
+    email = "hello@jeffrin.com"
+    link = "https://t.me/jeffrin"
