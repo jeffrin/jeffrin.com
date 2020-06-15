@@ -259,6 +259,7 @@ order = [".jpg$", ".gif$"]
         Bilibili = ""
         Email = "hello@jeffrin.com"
         RSS = true # LoveIt NEW | 0.2.0
+        googlephotos = "https://photos.app.goo.gl/kfTJaRgGRK3jh5F88"
 
 [menu]
   [[menu.main]]
