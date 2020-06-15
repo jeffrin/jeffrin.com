@@ -194,9 +194,9 @@ order = [".jpg$", ".gif$"]
                     #  replaced with hiddenFromHomePage in params.page
                     # default behavior when you don't set "hiddenFromHomePage" in front matter
                     defaultHiddenFromHomePage = false
-                    [params.social]
+        [params.social]
         GitHub = ""
-        Linkedin = ""
+        Linkedin = "https://www.linkedin.com/in/jeffrin/"
         Twitter = "@jeffrin"
         Instagram = "@jeffrin"
         #Facebook = "xxxx"
