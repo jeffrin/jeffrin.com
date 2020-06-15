@@ -71,7 +71,7 @@ order = [".jpg$", ".gif$"]
   # website images for Open Graph and Twitter Cards
   images = ["/logo.png"]
 
-  AuthorName = "Jeffrin"
+  authorName = "Jeffrin"
 
   #  App icon config
   [params.app]
@@ -137,7 +137,7 @@ order = [".jpg$", ".gif$"]
               #  whether to show Hugo and theme info
               hugo = false
               #  whether to show copyright info
-              copyright = false
+              copyright = true
               #  whether to show the author
               author = true
               # Site creation time
@@ -145,7 +145,7 @@ order = [".jpg$", ".gif$"]
               # ICP info only in China (HTML format is supported)
               icp = ""
               # license info (HTML format is supported)
-              license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+              # license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
               #  Section (all posts) page config
               [params.section]
