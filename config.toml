@@ -1,4 +1,4 @@
-baseURL = "http://jeffrin.com"
+baseURL = "https://jeffrin.com"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
@@ -70,6 +70,7 @@ order = [".jpg$", ".gif$"]
   dateFormat = "2006-Jan-02"
   # website images for Open Graph and Twitter Cards
   images = ["/logo.png"]
+  AuthorName = "Jeffrin"
 
   #  App icon config
   [params.app]
@@ -111,7 +112,7 @@ order = [".jpg$", ".gif$"]
         # Header config
         [params.header]
           # desktop header mode ("fixed", "normal", "auto")
-          desktopMode = "fixed"
+          desktopMode = "auto"
           # mobile header mode ("fixed", "normal", "auto")
           mobileMode = "auto"
           #  Header title config
