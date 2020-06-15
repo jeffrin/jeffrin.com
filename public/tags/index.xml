@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - jeffrin.com</title>
+        <link>http://jeffrin.com/tags/</link>
+        <description>Tags - Tag - jeffrin.com</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://jeffrin.com/tags/" rel="self" type="application/rss+xml" /></channel>
+</rss>
