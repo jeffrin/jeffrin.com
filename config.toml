@@ -70,6 +70,7 @@ order = [".jpg$", ".gif$"]
   dateFormat = "2006-Jan-02"
   # website images for Open Graph and Twitter Cards
   images = ["/logo.png"]
+  
   AuthorName = "Jeffrin"
 
   #  App icon config
