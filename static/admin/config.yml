@@ -16,7 +16,7 @@ collections:
       - {label: "Subtitle", name: "subtitle", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Last modified", name: "lastmod", widget: "datetime"}
-      - {label: "Draft", name: "draft", widget: "true"}
-      - {label: "Author", name: "author", widget: "Jeffrin"}
-      - {label: "Author link", name: "authorLink", widget: "https://t.me/jeffrin"}
+      - {label: "Draft", name: "draft", widget: "string"}
+      #- {label: "Author", name: "author", widget: "string"}
+      #- {label: "Author link", name: "authorLink", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
