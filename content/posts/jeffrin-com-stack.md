@@ -1,26 +1,26 @@
 ---
 layout: blog
 title: jeffrin.com Stack
-subtitle: Build and host a SSL-protected Hugo site for free with GitHub and Netlify
+subtitle: How I built an SSL-protected Hugo site for free with GitHub and Netlify
 date: 2020-06-17T05:12:10.812Z
-lastmod: 2020-06-17T05:12:10.823Z
+lastmod: 2020-06-17T17:03:03.095Z
 draft: false
 ---
 ## Previously on jeffrin.com
 
-It started with Leo Laporte recommending Hugo on one of the various TWiT shows. Hugo is an open-source static site generator written in Go, touted for its speed and efficiency. 
+It started with [Leo Laporte](https://twitter.com/leolaporte) recommending Hugo on one of the various [TWiT](https://twit.tv/) shows. [Hugo](https://gohugo.io/) is an open-source static site generator written in Go, touted for its speed and efficiency. 
 
-I'd been using carrrd.co as a low-cost, low-maintenance landing page for jeffrin.com for about a year. While it did a fine job and looked decent, it wasn't gratifying to get it up and running. I had no desire to tinker with it beyond the first draft. That said, if you're looking for an approachable, light, affordable site builder, consider carrrd.co before you jump to Squarespace and Wix.
+I'd been using [carrd.co](https://carrd.co/) as a low-cost, low-maintenance landing page for jeffrin.com for about a year. While it did a fine job and looked decent, it wasn't gratifying to get it up and running. I had no desire to tinker with it beyond the first draft. That said, if you're looking for an approachable, light, affordable site builder, consider carrd.co before you jump to Squarespace and Wix.
 
 So about a week ago I challenged myself to create a Hugo site, to see if it would be a suitable destination for jeffrin.com in 2020. 
 
 ## Hugo FOSS
 
-Hugo is my second go-round on the open source site generator train. Prior to settling for carrrd.co, I sunk a couple weekends into getting GravCMS up and running after discovering it on the Nova Launcher website. I hosted it on Digital Ocean and had it live for a bit, but couldn't justify the monthly cost for a not so glorified landing page. The experience gained from that experiment ended up serving me well with the launching the new site. 
+Hugo is my second go-round on the open source site generator train. Prior to settling for carrrd.co, I sunk a couple weekends into getting [GravCMS](https://getgrav.org/) up and running after discovering it on the [Nova Launcher website](http://novalauncher.com/). I hosted it on [Digital Ocean](https://www.digitalocean.com/) and had it live for a bit, but couldn't justify the monthly cost for a not so glorified landing page. The experience gained from that experiment ended up serving me well with the launching the new site. 
 
-There's a lot I like about Hugo, easily one of my favorite aspects of this new stack is that it's a secure site hosted for free. I host the code on GitHub, which automatically deploys to Netlify, which handles the DNS and SSL cert. 
+There's a lot I like about Hugo, easily one of my favorite aspects of this new stack is that it's a secure site hosted for free. I host the code on GitHub, which automatically deploys to [Netlify](http://netlify.com/), which handles the DNS and SSL certificate. 
 
-As a member of dark mode nation, I was pleased to find many of the community-created themes included a built in light/dark mode toggle. The [LoveIt](https://github.com/dillonzq/LoveIt) theme by dillonzq ticked all the boxes of my requirements, and had a clean aesthetic I was looking for. Bonus points for the math equation shortcodes, which I'll likely never use, but I have a soft spot for math. 
+As a member of dark mode nation, I was pleased to find many of the community-created themes included a built in light/dark mode toggle. The [LoveIt theme](https://hugoloveit.com/) by dillonzq ticked all the boxes of my requirements with a clean aesthetic. Bonus points for the equation shortcodes, which I'll likely never use, but touch my soft spot for maths. 
 
 ## Move slow, still break things
 
@@ -42,7 +42,7 @@ That was the Google search that led me to [Automating the deployment of your sta
 
 I followed the "The easy way" and pushed my site to GitHub. There were stumbles, errors, Google searches for those errors, but eventually, I signed up for Netlify, connected it to GitHub, and the site was live again. I verified jeffrin.com, and had my second home for jeffrin.com in as many weeks.
 
-A bonus to this setup is NetlifyCMS an ultra lightweight CMS that I configured to work with my site, so I would have a simple interface to log into and post. 
+The topper to this setup is NetlifyCMS an ultra lightweight CMS that I configured to work with my site, so I would have a simple interface to log into and post from any device.
 
 ## It takes a village
 
@@ -53,3 +53,9 @@ The Hugo site and community meet that requirement handily. What I couldn't solve
 This includes the avatar loading issue, which was easily solved by placing the image in the static/images folder. Duh.
 
 ## Where do we go
+
+And here we are. jeffrin.com is now public to the internet. I'm proud enough of the build that I felt compelled to write this post, which is the longest piece I've written for personal reasons in an indeterminable amount of time. 
+
+I've circled a few topics in my head that I'll address in future posts: my productivity stack, the mobile device landscape, remote working. I'll fight with all that I have and my Bullet Journal to avoid going years without posting. 
+
+If you've read to this point, I'm grateful and hope you'll return.
