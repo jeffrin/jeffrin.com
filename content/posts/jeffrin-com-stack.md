@@ -4,7 +4,7 @@ title: jeffrin.com Stack
 subtitle: Build and host a SSL-protected Hugo site for free with GitHub and Netlify
 date: 2020-06-17T05:12:10.812Z
 lastmod: 2020-06-17T05:12:10.823Z
-draft: true
+draft: false
 ---
 # Previously on jeffrin.com
 
