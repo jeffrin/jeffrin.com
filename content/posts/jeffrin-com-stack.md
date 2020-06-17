@@ -44,11 +44,11 @@ That was the Google search that led me to [Automating the deployment of your sta
 
 I followed the "The easy way" and pushed my site to GitHub. There were stumbles, errors, Google searches for those errors, but eventually, I signed up for Netlify, connected it to GitHub, and the site was live again. I verified jeffrin.com, and had my second home for jeffrin.com in as many weeks.
 
-The topper to this setup is NetlifyCMS an ultra lightweight CMS that I configured to work with my site, so I would have a simple interface to log into and post from any device.
+Hosting on GitHub also enables me to run [Atom](https://atom.io/) on Mac and Windows, which allows me to update the site from both computers. The topper to the setup is [NetlifyCMS](https://www.netlifycms.org/), an ultra lightweight content management system that provides a simple interface to log into and post from any device.
 
 ## It takes a village
 
-The sterilized retelling of building this site makes it sound a lot easier than it was. While I love the idea of free open-source software, I require a certain level of support as I'm no master coder by any measure. 
+The sterilized retelling of the creation of this site makes it sound easier than it was. While I love the idea of free open-source software, I require a certain level of support as I'm no master coder by any measure. 
 
 The Hugo site and community meet that requirement handily. What I couldn't solve by combing through the documentation, I was able to by consulting the [Hugo forums](https://discourse.gohugo.io/). 
 
@@ -58,6 +58,6 @@ This includes the avatar loading issue, which was easily solved by placing the i
 
 And here we are. jeffrin.com is now public to the internet. I'm proud enough of the build that I felt compelled to write this post, which is the longest piece I've written for personal reasons in an indeterminable amount of time. 
 
-I've circled a few topics in my head that I'll address in future posts: my productivity stack, the mobile device landscape, remote working. I'll fight with all that I have and my Bullet Journal to avoid going years without posting. 
+I've circled a few topics in my head to address in future posts: my productivity stack, the mobile device landscape, remote working. I'll fight with all that I have and my Bullet Journal to avoid going years without posting. 
 
 If you've read to this point, I'm grateful and hope you'll return.
