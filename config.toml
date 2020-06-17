@@ -190,7 +190,7 @@ order = [".jpg$", ".gif$"]
                   [params.home.posts]
                     enable = true
                     # special amount of posts in each home posts page
-                    paginate = 1
+                    paginate = 6
                     #  replaced with hiddenFromHomePage in params.page
                     # default behavior when you don't set "hiddenFromHomePage" in front matter
                     defaultHiddenFromHomePage = false
