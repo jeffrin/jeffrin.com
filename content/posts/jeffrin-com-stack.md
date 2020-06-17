@@ -16,7 +16,7 @@ So about a week ago I challenged myself to create a Hugo site, to see if it woul
 
 ![](/images/uploads/carrd.png "jeffrin.com on Carrd.co")
 
-## Hugo FOSS
+## HUGO FOSS
 
 Hugo is my second go-round on the open source site generator train. Prior to settling for carrrd.co, I sunk a couple weekends into getting [GravCMS](https://getgrav.org/) up and running after discovering it on the [Nova Launcher website](http://novalauncher.com/). I hosted it on [Digital Ocean](https://www.digitalocean.com/) and had it live for a bit, but couldn't justify the monthly cost for a not so glorified landing page. The experience gained from that experiment ended up serving me well with the launching the new site. 
 
