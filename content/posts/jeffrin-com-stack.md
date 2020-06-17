@@ -3,7 +3,7 @@ layout: blog
 title: jeffrin.com Stack
 subtitle: How I built an SSL-protected Hugo site for free with GitHub and Netlify
 date: 2020-06-17T05:12:10.812Z
-lastmod: 2020-06-17T17:03:03.095Z
+lastmod: 2020-06-17T18:00:12.683Z
 draft: false
 ---
 ## Previously on jeffrin.com
