@@ -5,8 +5,8 @@ date: 2020-07-02T04:18:21.575Z
 lastmod: 2020-07-02T04:18:21.582Z
 draft: false
 description: My most anticipated PS4 exclusive
-featuredImage: lastofuspartii.jpg
-featuredImagePreview: lastofuspartii.jpg
+featuredImage: static/images/uploads/lastofuspartii.jpg
+featuredImagePreview: static/images/uploads/lastofuspartii.jpg
 twemoji: true
 fontawesome: true
 ---
