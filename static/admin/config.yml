@@ -11,12 +11,17 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      #- {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Subtitle", name: "subtitle", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Last modified", name: "lastmod", widget: "datetime"}
       - {label: "Draft", name: "draft", widget: "boolean", default:true}
+      - {label: "Description", name: "description", widget:"string"}
+      - {label: "Featured Image", name: "featuredImage", widget:"image"}
+      - {label: "Featured Image Preview", name: "featuredImagePreview", widget:"image"}
+      - {label: "Twemoji", name: "twemoji", widget: "boolean", default:true}
+      - {label: "FontAwesome", name: "fontawesome", widget: "boolean", default:true}
       #- {label: "Author", name: "author", widget: "string"}
       #- {label: "Author link", name: "authorLink", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
