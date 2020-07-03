@@ -1,8 +1,8 @@
 ---
 title: "The Last of Us Part II "
 subtitle: My most anticipated PS4 exclusive
-date: 2020-07-02T04:18:21.575Z
-lastmod: 2020-07-02T04:18:21.582Z
+date: 2020-07-03T04:45:44.283Z
+lastmod: 2020-07-03T04:45:45.611Z
 draft: false
 description: My most anticipated PS4 exclusive
 featuredImage: images/uploads/lastofuspartii.jpg
