@@ -22,7 +22,7 @@ There's no avoiding this: the action in the game is hyper-violent by mainstream 
 
 ## Can I get a encore?
 
-The open ended conclusion, critical and commercial success, and players salivating for more time with Joel and Ellie made a sequel all but a certainty. Then a couple weeks ago, after a couple delays, it arrived. I installed on launch day.
+The open-ended conclusion, critical and commercial success, and players salivating for more time with Joel and Ellie made a sequel all but a certainty. Then a couple weeks ago, after a couple delays, it arrived. I installed on launch day.
 
 And I wasn't disappointed. Everything that hooked me about the first game was immediately apparent. The character models and environments were rendered in greater detail. Essentially every aspect of the game is improved in Part II; at the same time it honors the story of the first game by and making the events and the characters' choices *matter*.
 
