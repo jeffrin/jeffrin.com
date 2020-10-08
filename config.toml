@@ -197,10 +197,10 @@ order = [".jpg$", ".gif$"]
         [params.social]
         GitHub = ""
         Linkedin = "jeffrin"
-        Twitter = "@jeffrin"
-        Instagram = "@jeffrin"
+        Twitter = "jeffrin"
+        Instagram = "jeffrin"
         #Facebook = "xxxx"
-        Telegram = "@jeffrin"
+        Telegram = "jeffrin"
         Medium = ""
         Gitlab = ""
         Youtubelegacy = ""
