@@ -196,7 +196,7 @@ order = [".jpg$", ".gif$"]
                     defaultHiddenFromHomePage = false
         [params.social]
         GitHub = ""
-        Linkedin = "https://www.linkedin.com/in/jeffrin/"
+        Linkedin = "jeffrin"
         Twitter = "@jeffrin"
         Instagram = "@jeffrin"
         #Facebook = "xxxx"
