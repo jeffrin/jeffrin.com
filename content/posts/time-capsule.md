@@ -5,8 +5,8 @@ date: 2021-10-17T17:29:34.271Z
 lastmod: 2021-10-17T17:29:34.284Z
 draft: true
 description: Penzu.com
-featuredImage: adsf
-featuredImagePreview: asdf
+featuredImage: images/uploads/IMG_8276-REV-nk.jpg
+featuredImagePreview: asdf images/uploads/IMG_8276-REV-nk.jpg
 twemoji: true
 fontawesome: true
 ---
