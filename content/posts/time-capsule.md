@@ -6,7 +6,7 @@ lastmod: 2021-10-17T17:29:34.284Z
 draft: false
 description: "Two posts found in an abandoned journal, written seven years ago. "
 featuredImage: images/uploads/IMG_8276-REV-nk.jpg
-featuredImagePreview: asdf images/uploads/IMG_8276-REV-nk.jpg
+featuredImagePreview: images/uploads/IMG_8276-REV-nk.jpg
 twemoji: true
 fontawesome: true
 ---
