@@ -1,5 +1,5 @@
 ---
-title: Return to Penzu
+title: "Abandoned Journal: Return to Penzu"
 subtitle: '"San Anselmo" and "Marin Edits" written in April 2015'
 date: 2021-10-17T17:29:34.271Z
 lastmod: 2021-10-17T17:29:34.284Z
