@@ -10,4 +10,4 @@ featuredImagePreview: images/uploads/focal.png
 twemoji: true
 fontawesome: true
 ---
-S﻿houtout to my content delivery network (CDN) Netlify for making it a breeze to migrate from from Ubuntu 16.04 Xenial Xerus to 20.04 Focal Fossa.
+S/o my content delivery network (CDN) Netlify for making it a breeze to migrate from from Ubuntu 16.04 Xenial Xerus to 20.04 Focal Fossa.
