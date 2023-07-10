@@ -121,7 +121,7 @@ order = [".jpg$", ".gif$"]
             # URL of the LOGO
             #logo = ""
             # title name
-            name = "Jeffrin"
+            name = "  jeffrin"
             # you can add extra information before the name (HTML format is supported), such as icons
             pre = "<i class='fas fa-hamburger'></i>"
             # you can add extra information after the name (HTML format is supported), such as icons
@@ -177,9 +177,9 @@ order = [".jpg$", ".gif$"]
                     # URL of avatar shown in home page
                     avatarURL = "/images/avatar.png"
                     #  title shown in home page (HTML format is supported)
-                    title = "Jeffrin"
+                    title = "  jeffrin"
                     # subtitle shown in home page
-                    subtitle = "Tech + Media + Productivity"
+                    subtitle = "technologist"
                     # whether to use typeit animation for subtitle
                     typeit = true
                     # whether to show social links
@@ -299,6 +299,6 @@ order = [".jpg$", ".gif$"]
 
 # Author config
 [author]
-    name = "Jeffrin"
+    name = "jeffrin"
     email = "hello@jeffrin.com"
     link = "https://t.me/jeffrin"
