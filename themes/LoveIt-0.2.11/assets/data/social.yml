@@ -8,7 +8,7 @@ github:
 
 # 002: LinkedIn
 linkedin:
-  Weight: 2
+  Weight: 4
   Prefix: https://linkedin.com/in/
   Title: LinkedIn
   Icon:
@@ -24,7 +24,7 @@ twitter:
 
 # 004: Instagram
 instagram:
-  Weight: 4
+  Weight: 2
   Prefix: https://www.instagram.com/
   Title: Instagram
   Icon:
