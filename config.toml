@@ -6,7 +6,7 @@ languageCode = "en"
 title = "jeffrin"
 
 # Change the default theme to be use when building the site with Hugo
-theme = "LoveIt"
+theme = "LoveIt-0.2.11"
 
 [deployment]
 # By default, files are uploaded in an arbitrary order.
