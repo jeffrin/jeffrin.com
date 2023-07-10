@@ -503,9 +503,17 @@ email:
 
 # 064: RSS
 rss:
-  Weight: 64
+  Weight: 65
   Url: /index.xml
   Title: RSS
   Newtab: true
   Icon:
     Class: fas fa-rss fa-fw
+
+# 065: Discord
+discord:
+  Weight: 64
+  Prefix: https://discordapp.com/users/
+  Title: discord
+  Icon:
+    Simpleicons: discord
