@@ -177,7 +177,7 @@ order = [".jpg$", ".gif$"]
                     # URL of avatar shown in home page
                     avatarURL = "/images/avatar.png"
                     #  title shown in home page (HTML format is supported)
-                    title = "jeffrin.com"
+                    title = "Jeffrin"
                     # subtitle shown in home page
                     subtitle = "Tech + Media + Productivity"
                     # whether to use typeit animation for subtitle
