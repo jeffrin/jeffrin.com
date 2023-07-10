@@ -3,7 +3,7 @@ baseURL = "https://jeffrin.com"
 defaultContentLanguage = "en"
 # language code
 languageCode = "en"
-title = "Jeffrin Radovan"
+title = "Jeffrin"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -56,7 +56,7 @@ order = [".jpg$", ".gif$"]
   # LoveIt theme version
   version = "0.2.X"
   # site description
-  description = "jeffrin.com"
+  description = "Jeffrin"
   # site keywords
   keywords = ["Theme", "Hugo"]
   # site default theme ("light", "dark", "auto")
@@ -121,7 +121,7 @@ order = [".jpg$", ".gif$"]
             # URL of the LOGO
             #logo = ""
             # title name
-            name = "jeffrin.com"
+            name = "Jeffrin"
             # you can add extra information before the name (HTML format is supported), such as icons
             pre = "<i class='fas fa-hamburger'></i>"
             # you can add extra information after the name (HTML format is supported), such as icons
@@ -177,9 +177,9 @@ order = [".jpg$", ".gif$"]
                     # URL of avatar shown in home page
                     avatarURL = "/images/avatar.png"
                     #  title shown in home page (HTML format is supported)
-                    title = "Jeffrin Radovan"
+                    title = "Jeffrin"
                     # subtitle shown in home page
-                    subtitle = "Productivity + Tech"
+                    subtitle = "Tech + Media + Productivity"
                     # whether to use typeit animation for subtitle
                     typeit = true
                     # whether to show social links
