@@ -3,7 +3,7 @@ baseURL = "https://jeffrin.com"
 defaultContentLanguage = "en"
 # language code
 languageCode = "en"
-title = "jeffrin.com"
+title = "Jeffrin Radovan"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
