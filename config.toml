@@ -8,6 +8,10 @@ title = "jeffrin"
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt-0.2.11"
 
+[[params.plugins.css]]
+link = "plugins/font-awesome/v6/brands.css"
+lazy = true
+
 [deployment]
 # By default, files are uploaded in an arbitrary order.
 # Files that match the regular expressions in the "Order" list

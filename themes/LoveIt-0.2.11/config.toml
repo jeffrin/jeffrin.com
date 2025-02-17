@@ -160,6 +160,10 @@
       appID = ""
       searchKey = ""
 
+[[params.plugins.css]]
+link = "plugins/font-awesome/v6/brands.css"
+lazy = true
+
   # Home page config
   # 主页信息设置
   [params.home]
