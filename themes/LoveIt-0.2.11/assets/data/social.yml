@@ -524,4 +524,4 @@ bluesky:
   Prefix: https://bsky.app/profile
   Title: bluesky
   Icon:
-    Class: fab fa-bluesky fa-fw
+    Simpleicons: bluesky
