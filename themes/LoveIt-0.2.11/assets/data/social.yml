@@ -1,6 +1,6 @@
 # 001: Github
 github:
-  Weight: 1
+  Weight: 65
   Prefix: https://github.com/
   Title: GitHub
   Icon:
@@ -517,3 +517,11 @@ discord:
   Title: discord
   Icon:
     Simpleicons: discord
+
+# 001: bluesky
+bluesky:
+  Weight: 1
+  Prefix: https://bsky.app/profile
+  Title: bluesky
+  Icon:
+    Class: fab fa-bluesky fa-fw
