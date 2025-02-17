@@ -521,7 +521,7 @@ discord:
 # 001: bluesky
 bluesky:
   Weight: 1
-  Prefix: https://bsky.app/profile
+  Prefix: https://bsky.app/profile/
   Title: bluesky
   Icon:
     Simpleicons: bluesky
