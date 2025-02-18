@@ -4,7 +4,7 @@ bluesky:
   Prefix: https://bsky.app/profile/
   Title: bluesky
   Icon:
-    Simpleicons: bluesky
+    Class: fab fa-bluesky fa-fw
 
 # 002: LinkedIn
 linkedin:
