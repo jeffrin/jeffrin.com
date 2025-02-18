@@ -72,6 +72,7 @@ order = [".jpg$", ".gif$"]
   images = ["/logo.png"]
 
   authorName = "jeffrin"
+  
   [[params.plugins.css]]
     link = "plugins/font-awesome/v6/brands.css"
     lazy = true
