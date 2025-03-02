@@ -1,0 +1,29 @@
+name: Post to Bluesky
+
+on:
+  push:
+    paths:
+      - "content/posts/**"  # Trigger only for new microblog posts
+    branches:
+      - main  # Adjust if using a different branch
+
+jobs:
+  post_to_bluesky:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: pip install atproto python-frontmatter
+
+      - name: Run the Bluesky post script
+        env:
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+        run: python post_to_bluesky.py
