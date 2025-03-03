@@ -199,6 +199,7 @@ order = [".jpg$", ".gif$"]
                     # default behavior when you don't set "hiddenFromHomePage" in front matter
                     defaultHiddenFromHomePage = false
         [params.social]
+        Bluesky = "jeffrin.com"
         GitHub = ""
         Email = "hello@jeffrin.com"
         Linkedin = ""
@@ -265,7 +266,7 @@ order = [".jpg$", ".gif$"]
         RSS = false # LoveIt NEW | 0.2.0
         googlephotos = "https://photos.app.goo.gl/kfTJaRgGRK3jh5F88"
         Discord = "129322446678392833"
-        Bluesky = "jeffrin.com"
+        
 
 [menu]
   [[menu.main]]
