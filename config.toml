@@ -192,7 +192,7 @@ order = [".jpg$", ".gif$"]
                     disclaimer = ""
                   # Home page posts
                   [params.home.posts]
-                    enable = true
+                    enable = false
                     # special amount of posts in each home posts page
                     paginate = 6
                     #  replaced with hiddenFromHomePage in params.page
@@ -262,23 +262,23 @@ order = [".jpg$", ".gif$"]
         XMPP = ""
         Matrix = ""
         Bilibili = ""
-        RSS = true # LoveIt NEW | 0.2.0
+        RSS = false # LoveIt NEW | 0.2.0
         googlephotos = "https://photos.app.goo.gl/kfTJaRgGRK3jh5F88"
         Discord = "129322446678392833"
         bluesky = "jeffrin.com"
 
 [menu]
   [[menu.main]]
-    identifier = "posts"
+  #  identifier = "posts"
     # you can add extra information before the name (HTML format is supported), such as icons
-    pre = ""
+  #  pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
-    post = ""
-    name = "Posts"
-    url = "/posts/"
+  #  post = ""
+  #  name = "Posts"
+  #  url = "/posts/"
     # title will be shown when you hover on this menu link
-    title = ""
-    weight = 1
+  #  title = ""
+  #  weight = 1
   #[[menu.main]]
   #  identifier = "tags"
   #  pre = ""
